@@ -1,4 +1,4 @@
-Java auxiliary lib
+Java Auxiliary Library
 
 Functionality:
 - DB connectors
